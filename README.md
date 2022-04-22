@@ -1,6 +1,6 @@
 # P30_119000766_PhamGiaKhiem
 30%
-Model Category(danh mục) bao gồm các thuộc tính:
+<h3>Model Category(danh mục) bao gồm các thuộc tính:</h3>
 - Id
 - Name (require, độ dài tối đa là 200 ký tự)
 Model News(bài viết) bao gồm các thuộc tính:
