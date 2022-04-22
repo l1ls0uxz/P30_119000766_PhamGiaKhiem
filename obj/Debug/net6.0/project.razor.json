@@ -16303,8 +16303,43 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "e:\\P30_119000766_PhamGiaKhiem\\Pages\\Comment\\Details.cshtml",
+      "TargetPath": "Pages\\Comment\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\P30_119000766_PhamGiaKhiem\\Pages\\News\\Index.cshtml",
+      "TargetPath": "Pages\\News\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "e:\\P30_119000766_PhamGiaKhiem\\Pages\\_ViewImports.cshtml",
       "TargetPath": "Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\P30_119000766_PhamGiaKhiem\\Pages\\Comment\\Edit.cshtml",
+      "TargetPath": "Pages\\Comment\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\P30_119000766_PhamGiaKhiem\\Pages\\News\\Delete.cshtml",
+      "TargetPath": "Pages\\News\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\P30_119000766_PhamGiaKhiem\\Pages\\Category\\Details.cshtml",
+      "TargetPath": "Pages\\Category\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\P30_119000766_PhamGiaKhiem\\Pages\\News\\Create.cshtml",
+      "TargetPath": "Pages\\News\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\P30_119000766_PhamGiaKhiem\\Pages\\Comment\\Index.cshtml",
+      "TargetPath": "Pages\\Comment\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -16313,8 +16348,48 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "e:\\P30_119000766_PhamGiaKhiem\\Pages\\News\\Details.cshtml",
+      "TargetPath": "Pages\\News\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\P30_119000766_PhamGiaKhiem\\Pages\\Comment\\Create.cshtml",
+      "TargetPath": "Pages\\Comment\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\P30_119000766_PhamGiaKhiem\\Pages\\Category\\Create.cshtml",
+      "TargetPath": "Pages\\Category\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\P30_119000766_PhamGiaKhiem\\Pages\\Category\\Delete.cshtml",
+      "TargetPath": "Pages\\Category\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "e:\\P30_119000766_PhamGiaKhiem\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\P30_119000766_PhamGiaKhiem\\Pages\\Comment\\Delete.cshtml",
+      "TargetPath": "Pages\\Comment\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\P30_119000766_PhamGiaKhiem\\Pages\\Category\\Edit.cshtml",
+      "TargetPath": "Pages\\Category\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\P30_119000766_PhamGiaKhiem\\Pages\\News\\Edit.cshtml",
+      "TargetPath": "Pages\\News\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\P30_119000766_PhamGiaKhiem\\Pages\\Category\\Index.cshtml",
+      "TargetPath": "Pages\\Category\\Index.cshtml",
       "FileKind": "mvc"
     },
     {

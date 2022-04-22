@@ -1,5 +1,4 @@
 using Microsoft.EntityFrameworkCore;
-using RazorPagesMovie.Data;
 
 namespace RazorPagesMovie.Models
 {
@@ -11,48 +10,40 @@ namespace RazorPagesMovie.Models
                 serviceProvider.GetRequiredService<
                     DbContextOptions<RazorPagesMovieContext>>()))
             {
-                if (context == null || context.Movie == null)
+                if (context == null || context.Category == null)
                 {
                     throw new ArgumentNullException("Null RazorPagesMovieContext");
                 }
 
                 // Look for any movies.
-                if (context.Movie.Any())
+                if (context.Category.Any())
                 {
                     return;   // DB has been seeded
                 }
 
-                context.Movie.AddRange(
-                    new Movie
+                context.Category.AddRange(
+                    new Category
                     {
-                        Title = "When Harry Met Sally",
-                        ReleaseDate = DateTime.Parse("1989-2-12"),
-                        Genre = "Romantic Comedy",
-                        Price = 7.99M
+                        ID = 1 ,
+                        Name = "Phamn 1"
                     },
 
-                    new Movie
+                    new Category
                     {
-                        Title = "Ghostbusters ",
-                        ReleaseDate = DateTime.Parse("1984-3-13"),
-                        Genre = "Comedy",
-                        Price = 8.99M
+                        ID = 2 ,
+                        Name = "Pham Minh 1"
                     },
 
-                    new Movie
+                    new Category
                     {
-                        Title = "Ghostbusters 2",
-                        ReleaseDate = DateTime.Parse("1986-2-23"),
-                        Genre = "Comedy",
-                        Price = 9.99M
+                        ID = 3 ,
+                        Name = "Pham Minh 1"
                     },
 
-                    new Movie
+                    new Category
                     {
-                        Title = "Rio Bravo",
-                        ReleaseDate = DateTime.Parse("1959-4-15"),
-                        Genre = "Western",
-                        Price = 3.99M
+                        ID = 4 ,
+                        Name = "Pham Minh 1"
                     }
                 );
                 context.SaveChanges();
