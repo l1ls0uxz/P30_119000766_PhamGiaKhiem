@@ -8,97 +8,97 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = P30_119000766_PhamGiaKhiem
 build_property.RootNamespace = P30_119000766_PhamGiaKhiem
-build_property.ProjectDir = e:\P30_119000766_PhamGiaKhiem\
+build_property.ProjectDir = E:\P30_119000766_PhamGiaKhiem\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = e:\P30_119000766_PhamGiaKhiem
+build_property.MSBuildProjectDirectory = E:\P30_119000766_PhamGiaKhiem
 build_property._RazorSourceGeneratorDebug = 
 
-[e:/P30_119000766_PhamGiaKhiem/Pages/Category/Create.cshtml]
+[E:/P30_119000766_PhamGiaKhiem/Pages/Category/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcnlcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[e:/P30_119000766_PhamGiaKhiem/Pages/Category/Delete.cshtml]
+[E:/P30_119000766_PhamGiaKhiem/Pages/Category/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcnlcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[e:/P30_119000766_PhamGiaKhiem/Pages/Category/Details.cshtml]
+[E:/P30_119000766_PhamGiaKhiem/Pages/Category/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcnlcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[e:/P30_119000766_PhamGiaKhiem/Pages/Category/Edit.cshtml]
+[E:/P30_119000766_PhamGiaKhiem/Pages/Category/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcnlcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[e:/P30_119000766_PhamGiaKhiem/Pages/Category/Index.cshtml]
+[E:/P30_119000766_PhamGiaKhiem/Pages/Category/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[e:/P30_119000766_PhamGiaKhiem/Pages/Comment/Create.cshtml]
+[E:/P30_119000766_PhamGiaKhiem/Pages/Comment/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tbWVudFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[e:/P30_119000766_PhamGiaKhiem/Pages/Comment/Delete.cshtml]
+[E:/P30_119000766_PhamGiaKhiem/Pages/Comment/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tbWVudFxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[e:/P30_119000766_PhamGiaKhiem/Pages/Comment/Details.cshtml]
+[E:/P30_119000766_PhamGiaKhiem/Pages/Comment/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tbWVudFxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[e:/P30_119000766_PhamGiaKhiem/Pages/Comment/Edit.cshtml]
+[E:/P30_119000766_PhamGiaKhiem/Pages/Comment/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tbWVudFxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[e:/P30_119000766_PhamGiaKhiem/Pages/Comment/Index.cshtml]
+[E:/P30_119000766_PhamGiaKhiem/Pages/Comment/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tbWVudFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[e:/P30_119000766_PhamGiaKhiem/Pages/Error.cshtml]
+[E:/P30_119000766_PhamGiaKhiem/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[e:/P30_119000766_PhamGiaKhiem/Pages/Index.cshtml]
+[E:/P30_119000766_PhamGiaKhiem/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[e:/P30_119000766_PhamGiaKhiem/Pages/News/Create.cshtml]
+[E:/P30_119000766_PhamGiaKhiem/Pages/News/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTmV3c1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[e:/P30_119000766_PhamGiaKhiem/Pages/News/Delete.cshtml]
+[E:/P30_119000766_PhamGiaKhiem/Pages/News/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTmV3c1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[e:/P30_119000766_PhamGiaKhiem/Pages/News/Details.cshtml]
+[E:/P30_119000766_PhamGiaKhiem/Pages/News/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTmV3c1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[e:/P30_119000766_PhamGiaKhiem/Pages/News/Edit.cshtml]
+[E:/P30_119000766_PhamGiaKhiem/Pages/News/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTmV3c1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[e:/P30_119000766_PhamGiaKhiem/Pages/News/Index.cshtml]
+[E:/P30_119000766_PhamGiaKhiem/Pages/News/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTmV3c1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[e:/P30_119000766_PhamGiaKhiem/Pages/Privacy.cshtml]
+[E:/P30_119000766_PhamGiaKhiem/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[e:/P30_119000766_PhamGiaKhiem/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[E:/P30_119000766_PhamGiaKhiem/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[e:/P30_119000766_PhamGiaKhiem/Pages/_ViewImports.cshtml]
+[E:/P30_119000766_PhamGiaKhiem/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[e:/P30_119000766_PhamGiaKhiem/Pages/_ViewStart.cshtml]
+[E:/P30_119000766_PhamGiaKhiem/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[e:/P30_119000766_PhamGiaKhiem/Pages/Shared/_Layout.cshtml]
+[E:/P30_119000766_PhamGiaKhiem/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-vkjvvsk9j3

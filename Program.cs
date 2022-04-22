@@ -22,7 +22,7 @@ using (var scope = app.Services.CreateScope())
 {
     var services = scope.ServiceProvider;
 
-    SeedDataNews.Initialize(services);
+      SeedDataNews.Initialize(services);
 }
 using (var scope = app.Services.CreateScope())
 {
